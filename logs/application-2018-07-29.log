@@ -1,0 +1,5 @@
+{"message":"getBalance 2018.07.29 / 01:51:14:+0800  – info – 0xa0F","level":"info"}
+{"message":"getBalance 2018.07.29 / 01:51:27:+0800  – info – 0xa0F","level":"info"}
+{"message":"getBalance[ 2018.07.29 / 01:55:25:+0800 ] – info – 0xa0FF975f7c4Ac6f1d9F4A8198C9F5DC59888895f","level":"error"}
+{"message":"getBalance[ 2018.07.29 / 01:55:41:+0800 ] – info – 0xa0FF975f7c4Ac6f1d9F4A8198C9F5DC59888895f","level":"error"}
+{"message":"getBalance[ 2018.07.29 / 01:58:43:+0800 ]0xa0FF975f7c4Ac6f1d9F4A8198C9F5DC59888895f","level":"info"}
